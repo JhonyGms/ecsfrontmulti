@@ -1,0 +1,7 @@
+{
+  "name": "ecsfrontmulti",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
